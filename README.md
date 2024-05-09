@@ -2,6 +2,6 @@
 
 
 ### 项目
--  lvview: [@manbirmarwah](https://lvadd.github.io/lvview/)
+-  lvview: [@lvview](https://lvadd.github.io/lvview/)
 
 ---
